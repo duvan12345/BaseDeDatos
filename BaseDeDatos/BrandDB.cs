@@ -16,6 +16,7 @@ namespace BaseDeDatos
         }
 
 
+
         public List<Brand> GetAllBrand()
         {
             Connect();
